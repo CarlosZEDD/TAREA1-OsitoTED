@@ -1,0 +1,243 @@
+body
+{
+    background-color: lightsalmon;
+}
+#orejas
+{
+    width: 260px;
+    height: 100px;
+    /*border-style: solid;*/
+    margin: auto;
+}
+#oreja1
+{
+    width: 120px;
+    height: 120px;
+    border-style: solid;
+    margin: auto;
+    border-radius: 100px;
+    background-color: peru;
+    display: inline-block;
+    position: relative;
+    top: 17px;
+    left: -40px;
+}
+#oreja2
+{
+    width: 120px;
+    height: 120px;
+    border-style: solid;
+    margin: auto;
+    border-radius: 100px;
+    background-color: peru;
+    display: inline-block;
+    position: relative;
+    left: 41px;
+    top: 16px;
+}
+#ollito1
+{
+    width: 70px;
+    height: 70px;
+    border-style: solid;
+    margin: auto;
+    border-radius: 100px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 45px;
+    left: 10px;
+
+}
+#ollito2
+{
+    width: 70px;
+    height: 70px;
+    border-style: solid;
+    margin: auto;
+    border-radius: 100px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 45px;
+    left: -10px;
+
+}
+#rostro
+{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-radius: 90px;
+    margin: auto;
+    background-color: peru;
+}
+#ojos
+{
+    width: 190px;
+    height: 100px;
+    /*border-style: solid;*/
+    margin: auto;
+}
+#ojo1
+{
+    width: 70px;
+    height: 70px;
+    border-style: solid;
+    margin: auto;
+    border-radius: 100px;
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    top: 20px;
+    left: 12px;
+}
+#ojo2
+{
+    width: 70px;
+    height: 70px;
+    border-style: solid;
+    margin: auto;
+    border-radius: 100px;
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    top: 20px;
+    left: 12px;
+}
+#iris
+{
+    background-color: black;
+    width: 25px;
+    height: 25px;
+    border-radius: 100px;
+    border-style: solid;
+    margin: auto;
+    position: relative;
+    top: 30px;
+}
+#nariz
+{
+    width: 30px;
+    height: 30px;
+    border-style: solid;
+    margin: auto;
+    background-color: black;
+    border-radius: 100px;
+    position: relative;
+    top: -10px;
+}
+#boca
+{
+    width: 100px;
+    height: 30px;
+    border-style: solid;
+    margin: auto;
+    border-radius: 0px 0px 100px 100px;
+    background-color: brown;
+}
+#lengua
+{
+    width: 68px;
+    height: 10px;
+    background-color: rgb(206, 59, 59);
+    border-style: solid;
+    margin: auto;
+    border-radius: 100px 100px 80px 80px ;
+    position: relative;
+    top: 15px;
+}
+#cuerpo
+{
+    width: 300px;
+    height: 340px;
+    border-style: solid;
+    margin: auto;
+    border-radius: 120px;
+    position: relative;
+    top: -20px;
+    background-color: peru;
+    
+}
+#panza
+{
+    margin: auto;
+    width: 160px;
+    height: 240px;
+    border-style: solid;
+    border-radius: 110px;
+    background-color: white;
+    position: relative;
+    top: 40px;
+}
+#arriba
+{
+    margin: auto;
+    width: 200px;
+    height: 120px;
+    /*border-style: solid;*/
+
+}
+#a1
+{
+    margin: auto;
+    width: 80px;
+    height: 170px;
+    border-style: solid;
+    display: inline-block;
+    background-color: peru;
+    border-radius: 80px;
+    position: relative;
+    top: -120px;
+    left: -140px;
+    transform: rotate(-48deg);
+
+}
+#a2
+{
+    margin: auto;
+    width: 80px;
+    height: 170px;
+    border-style: solid;
+    display: inline-block;
+    background-color: peru;
+    border-radius: 80px;
+    position: relative;
+    transform: rotate(48deg);
+    top: -120px;
+    left: 130px;
+}
+#abajo
+{
+    margin: auto;
+    width: 160px;
+    height: 120px;
+    /*border-style: solid;*/
+}
+#b1
+{
+    margin: auto;
+    width: 80px;
+    height: 170px;
+    border-style: solid;
+    display: inline-block;
+    background-color: peru;
+    border-radius: 80px;
+    position: relative;
+    top: 90px;
+    left: -130px;
+    transform: rotate(45deg);
+
+}
+#b2
+{
+    margin: auto;
+    width: 80px;
+    height: 170px;
+    border-style: solid;
+    display: inline-block;
+    background-color: peru;
+    border-radius: 80px;
+    position: relative;
+    transform: rotate(-48deg);
+    top: -94px;
+    left: 190px;
+}
